@@ -1,0 +1,23 @@
+# Backend
+realdeals-backend/target/
+realdeals-backend/.idea/
+realdeals-backend/*.iml
+
+# Frontend
+realdeals-frontend/node_modules/
+realdeals-frontend/dist/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+*.env
+
+# Logs
+*.log
